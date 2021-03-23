@@ -1,8 +1,0 @@
-/* Notes 
- pico_display.triangle(Point(50, 50), Point(130, 80), Point(80, 110));
- pico_display.line(Point(50, 50), Point(120, 80));
- pico_display.circle(Point(shape.x, shape.y), shape.r);
- pico_display.pixel(Point(x, y));
- if (pico_display.is_pressed(pico_display.X))
- tga image must be uncompressed !
-*/
